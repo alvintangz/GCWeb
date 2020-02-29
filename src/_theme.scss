@@ -9,6 +9,11 @@
 
 @import "variables";
 
+@import "node_modules/wet-boew/src/base/bootstrap";
+
+/* WET Core */
+@import "wet-boew/src/base/wet-boew";
+
 /* GCWeb Independant Component */
 @import "small-component";
 
